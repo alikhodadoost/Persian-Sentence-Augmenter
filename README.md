@@ -1,7 +1,7 @@
 # Persian-Sentence-Augmenter
 Persian Sentence Augmenter
 
-Sentence Augmentation for persian language based on the paper: EMNLP-IJCNLP paper: Easy data augmentation techniques for boosting performance on text classification tasks. https://arxiv.org/abs/1901.11196
+Sentence Augmentation for persian language based on EMNLP-IJCNLP paper: Easy data augmentation techniques for boosting performance on text classification tasks. https://arxiv.org/abs/1901.11196
 
 
 ## How to
